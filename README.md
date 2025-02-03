@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vinayak Sharma</h1>
 <h3 align="center">A passionate Mobile and Web Developer from India</h3>
 
-- 🌱 I’m currently learning **Node.js and Express.js**
-
 - 💬 Ask me about **Java, Android Development, Kotlin, Flutter, Dart, Spring boot, Golang**
 
 - 📫 How to reach me **vinayaksharma5555@gmail.com**
