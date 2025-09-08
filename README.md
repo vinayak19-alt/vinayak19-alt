@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **vinayaksharma5555@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RzuQ6fE-sSzX1lAuw4OTJFlftqxffmpv/view?usp=sharing](https://drive.google.com/file/d/1RzuQ6fE-sSzX1lAuw4OTJFlftqxffmpv/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/11kLbhhQNF9emvbFXzlRmppjd8-57ScM5/view?usp=drivesdk](https://drive.google.com/file/d/11kLbhhQNF9emvbFXzlRmppjd8-57ScM5/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
