@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vinayak Sharma</h1>
-<h3 align="center">A passionate Mobile and Web Developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
-- 💬 Ask me about **Java, Android Development, Kotlin, Flutter, Dart, Spring boot, Golang**
+- 💬 Ask me about **Java, Spring Boot, TypeScript, Angular, Golang**
 
 - 📫 How to reach me **vinayaksharma5555@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11kLbhhQNF9emvbFXzlRmppjd8-57ScM5/view?usp=drivesdk](https://drive.google.com/file/d/11kLbhhQNF9emvbFXzlRmppjd8-57ScM5/view?usp=drivesdk)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1SFnUmiITA6d6EVmdKhgOcsIOVr9JmhX7/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
