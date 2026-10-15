@@ -4,7 +4,7 @@
 
 - 💬 Ask me about **Java, Spring Boot, REST APIs, Hibernate, Angular, React.js, TypeScript, Go**
 - 📫 Reach me at **vinayaksharma5555@gmail.com**
-- 📄 [View my Resume](https://drive.google.com/file/d/1SFnUmiITA6d6EVmdKhgOcsIOVr9JmhX7/view?usp=sharing)
+- 📄 [View my Resume](https://drive.google.com/file/d/14tJlJGGQqsto4fhJB_od8D1zDUpa0PVs/view?usp=sharing)
 
 ### Connect with me
 
